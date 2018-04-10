@@ -1,0 +1,5 @@
+/Users/matt/JAZ/s16222_filters/src/main/java/filters/ApplicationDataInSessionFilter.java
+/Users/matt/JAZ/s16222_filters/src/main/java/domain/ConferenceApplication.java
+/Users/matt/JAZ/s16222_filters/src/main/java/repositories/ConferenceApplicationRepository.java
+/Users/matt/JAZ/s16222_filters/src/main/java/repositories/DummyConferenceApplicationRepository.java
+/Users/matt/JAZ/s16222_filters/src/main/java/servlets/AddApplicantServlet.java
